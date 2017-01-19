@@ -1,3 +1,4 @@
+config-file-provider
 workflow-api
 antisamy-markup-formatter
 favorite
@@ -104,4 +105,3 @@ ssh-agent
 view-job-filters
 build-monitor-plugin
 ansible
-config-file-provider
