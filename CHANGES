@@ -1,0 +1,8 @@
+Version 0.1.0
+ - Changed plugins order
+ - Merge branch 'develop'
+ - Changed jenkins version
+ - Added config-file-provider plugin
+ - Initial commit
+ - Initial commit
+
