@@ -107,3 +107,4 @@ build-monitor-plugin
 ansible
 kubernetes
 google-source-plugin
+performance
