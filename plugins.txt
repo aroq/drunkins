@@ -106,3 +106,4 @@ view-job-filters
 build-monitor-plugin
 ansible
 uno-choice
+performance
