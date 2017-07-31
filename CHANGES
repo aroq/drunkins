@@ -1,3 +1,7 @@
+Version 0.2.1:
+ - removed uno-choice plugin
+ - trigger
+
 Version 0.2.0:
  - Fixed conflict after merge
  - Removed unneeded steps
