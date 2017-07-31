@@ -1,9 +1,10 @@
-FROM jenkins:2.60.2-alpine
+FROM jenkins:2.60.2
 
 USER root
-RUN apk update && \
-    apk add bash git openssh rsync && \
-    rm -rf /var/cache/apk/*
+
+RUN apt-get update && \
+    apt-get -y install rsync && \
+    rm -rf /var/lib/{apt,dpkg,cache,log}/    
 
 USER jenkins
 COPY plugins.txt /usr/share/jenkins/plugins.txt
