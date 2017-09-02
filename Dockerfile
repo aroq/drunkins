@@ -2,7 +2,7 @@ FROM jenkins:2.60.2-alpine
 
 USER root
 RUN apk update && \
-    apk add bash git openssh rsync && \
+    apk add bash git openssh rsync procps && \
     rm -rf /var/cache/apk/*
 
 USER jenkins
