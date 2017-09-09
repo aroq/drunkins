@@ -1,3 +1,8 @@
+Version 0.2.2:
+ - Merge branch 'develop'
+ - procps install
+ - trigger
+
 Version 0.2.1:
  - removed uno-choice plugin
  - trigger
