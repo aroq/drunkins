@@ -108,3 +108,4 @@ ansible
 kubernetes
 google-source-plugin
 performance
+permissive-script-security
