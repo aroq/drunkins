@@ -1,4 +1,4 @@
-FROM jenkins:lts-alpine
+FROM jenkins/jenkins:2.73.2-alpine
 
 USER root
 RUN apk update && \
