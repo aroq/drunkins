@@ -1,3 +1,30 @@
+Version 0.2.1:
+ - removed uno-choice plugin
+ - trigger
+
+Version 0.2.0:
+ - Fixed conflict after merge
+ - Removed unneeded steps
+ - Updated jenkins to 2.60.2-alpine
+ - Add performance plugin
+ - Updated jenkins & added k8s plugin
+ - Removed env.env
+
+Version 0.1.3:
+ - Reverted docker-workflow plugin to 1.9.1
+
+Version 0.1.2:
+ - Version bump to 0.1.1
+ - Added Active choice plugin
+
+Version 0.1.1:
+ - Added Active choice plugin
+
+Version 0.1.1:
+ - Merge branch 'develop'
+ - Merge branch 'master' into develop
+ - trigger
+
 Version 0.1.0
  - Changed plugins order
  - Merge branch 'develop'
