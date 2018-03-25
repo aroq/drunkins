@@ -31,7 +31,7 @@ workflow-scm-step
 momentjs
 durable-task
 icon-shim
-docker-workflow:1.9.1
+docker-workflow
 jquery
 embeddable-build-status
 modernstatus
@@ -107,5 +107,7 @@ build-monitor-plugin
 ansible
 performance
 htmlpublisher
-allure
+allure-jenkins-plugin
 uno-choice
+cloud-stats
+command-launcher
