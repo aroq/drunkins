@@ -111,3 +111,5 @@ allure-jenkins-plugin
 uno-choice
 cloud-stats
 command-launcher
+monitoring
+kubernetes
