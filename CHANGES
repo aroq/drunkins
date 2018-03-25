@@ -1,3 +1,7 @@
+Version 2.107.1.1:
+ - Add monitoring & kubernetes plugins
+ - Update jenkins to 2.107.1-LTS alpine
+
 Version 2.89.4.5:
  - Update plugings
  - Add allure & unochoice plugins
