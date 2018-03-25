@@ -1,3 +1,7 @@
+Version 2.89.4.5:
+ - Update plugings
+ - Add allure & unochoice plugins
+
 Version 2.89.4.2:
  - Set base image version to 2.89.4-alpine
 
