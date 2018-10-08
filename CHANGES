@@ -1,3 +1,9 @@
+Version 2.145.0:
+ - Remove executors.groovy
+ - Merge branch 'stage'
+ - Update plugins
+ - Update jenkins to 2.145
+
 Version 2.89.4.5:
  - Update plugings
  - Add allure & unochoice plugins
