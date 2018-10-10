@@ -1,3 +1,7 @@
+Version 2.145.1:
+ - Merge branch 'develop'
+ - Add configuration-as-code plugin
+
 Version 2.145.0:
  - Remove executors.groovy
  - Merge branch 'stage'
