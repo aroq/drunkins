@@ -8,3 +8,5 @@ RUN apk update && \
 USER jenkins
 COPY plugins.txt /usr/share/jenkins/plugins.txt
 RUN /usr/local/bin/install-plugins.sh $(cat /usr/share/jenkins/plugins.txt | tr '\n' ' ')
+
+ENV CASC_JENKINS_CONFIG=/var/jenkins_home/zebra/casc
