@@ -1,3 +1,6 @@
+Version 2.147.1:
+ - Update worflow-cps plugins
+
 Version 2.147.0:
  - Update jenkins to 2.147-alpine & plugins update
 
