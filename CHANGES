@@ -1,3 +1,6 @@
+Version 2.153.0:
+ - Change jenkins version to 2.153
+
 Version 2.145.7:
  - Add build-blocker-plugin:1.7.3 plugin
 
