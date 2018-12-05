@@ -1,3 +1,6 @@
+Version 2.153.6:
+ - Update parameterized-trigger to 2.35.2
+
 Version 2.153.1:
  - Add parameterized-trigger:2.26
  - Merge 2.153.0
