@@ -1,14 +1,8 @@
-Version 2.147.3:
+Version 2.153.0:
+ - Change jenkins version to 2.153
 
-
-Version 2.147.2:
- - Update kubernetes plugin to 1.12.9
-
-Version 2.147.1:
- - Update worflow-cps plugins
-
-Version 2.147.0:
- - Update jenkins to 2.147-alpine & plugins update
+Version 2.145.7:
+ - Add build-blocker-plugin:1.7.3 plugin
 
 Version 2.145.1:
  - Merge branch 'develop'
