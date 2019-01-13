@@ -75,4 +75,4 @@ handlebars:1.1.1
 junit:1.26.1
 pipeline-stage-view:2.10
 configuration-as-code:1.1
-lockable-resources:1.609.1
+lockable-resources:2.3
