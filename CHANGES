@@ -1,3 +1,6 @@
+Version 2.145.7.4:
+ - Fix lockable-resources version to 2.3
+
 Version 2.145.7.2:
  - Add lockable resources plugin
 
