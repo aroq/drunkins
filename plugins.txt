@@ -76,3 +76,5 @@ junit:1.26.1
 pipeline-stage-view:2.10
 configuration-as-code:1.1
 lockable-resources:2.3
+parameterized-trigger:2.35.2
+build-blocker-plugin:1.7.3
