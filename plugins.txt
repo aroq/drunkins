@@ -78,3 +78,4 @@ configuration-as-code:1.1
 lockable-resources:2.3
 parameterized-trigger:2.35.2
 build-blocker-plugin:1.7.3
+pipeline-aws:1.36
