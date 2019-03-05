@@ -1,25 +1,19 @@
-Version 2.156.0:
- - Update Jenkins to 2.156-alpine
+Version 2.145.7.5:
+ - Add build-blocker-plugin:1.7.3 & parameterized-trigger:2.35.2 plugins
 
-Version 2.153.6:
- - Update parameterized-trigger to 2.35.2
+Version 2.145.7.4:
+ - Fix lockable-resources version to 2.3
 
-Version 2.153.1:
- - Add parameterized-trigger:2.26
- - Merge 2.153.0
- - Version bump to 2.147.3
- - Version bump to 2.147.2
- - Update kubernetes plugin to 1.12.9
- - Version bump to 2.147.1
- - Update worflow-cps plugins
- - Version bump to 2.147.0
- - Update jenkins to 2.147-alpine & plugins update
+Version 2.145.7.2:
+ - Add lockable resources plugin
 
-Version 2.153.0:
- - Change jenkins version to 2.153
+Version 2.145.7.1:
+ - Version bump to 2.145.7
+ - Version bump to 2.145.7
+ - Add build-blocker-plugin:1.7.3 plugin
 
 Version 2.145.7:
- - Add build-blocker-plugin:1.7.3 plugin
+
 
 Version 2.145.1:
  - Merge branch 'develop'
