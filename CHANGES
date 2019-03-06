@@ -1,3 +1,6 @@
+Version 2.145.11:
+ - Update script-security plugin to 1.53 & add pipeline-aws plugin 1.36
+
 Version 2.145.10:
  - Fixed list of plugins to v2.145.7.5
 
