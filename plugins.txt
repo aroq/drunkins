@@ -30,7 +30,7 @@ workflow-cps-global-lib:2.11
 ldap:1.20
 pipeline-build-step:2.7
 apache-httpcomponents-client-4-api:4.5.5-3.0
-structs:1.15
+structs:1.17
 git:3.9.1
 pipeline-stage-step:2.3
 workflow-support:2.20
