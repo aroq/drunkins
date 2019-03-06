@@ -2,7 +2,7 @@ scm-api:2.2.7
 docker-workflow:1.17
 bouncycastle-api:2.17
 parameter-separator:1.0
-script-security:1.46
+script-security:1.53
 ssh-agent:1.16
 htmlpublisher:1.16
 kubernetes:1.12.6
@@ -78,3 +78,5 @@ configuration-as-code:1.1
 lockable-resources:2.3
 parameterized-trigger:2.35.2
 build-blocker-plugin:1.7.3
+pipeline-aws:1.36
+
