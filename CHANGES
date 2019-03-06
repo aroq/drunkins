@@ -1,3 +1,6 @@
+Version 2.145.12:
+ - Update structs plugin to 1.17
+
 Version 2.145.11:
  - Update script-security plugin to 1.53 & add pipeline-aws plugin 1.36
 
